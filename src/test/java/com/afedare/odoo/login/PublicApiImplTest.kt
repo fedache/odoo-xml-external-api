@@ -1,14 +1,12 @@
 package com.afedare.odoo.login
 
-import com.afedare.odoo.internal.PublicApiImpl
 import com.afedare.odoo.api.OdooPublicApi
 import com.afedare.odoo.ext.loadProperties
-import org.junit.Test
-
-import org.junit.Assert.*
+import org.junit.Assert.assertNotNull
 import org.junit.Before
 import org.junit.BeforeClass
 import org.junit.Ignore
+import org.junit.Test
 import java.util.*
 
 /**

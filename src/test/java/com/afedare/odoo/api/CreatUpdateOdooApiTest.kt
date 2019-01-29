@@ -1,7 +1,6 @@
 package com.afedare.odoo.api
 
 import com.afedare.odoo.ext.loadProperties
-import com.afedare.odoo.internal.OdooApiImpl
 import org.junit.Before
 import org.junit.BeforeClass
 import org.junit.Test
