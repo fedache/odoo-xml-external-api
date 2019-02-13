@@ -3,9 +3,11 @@ package com.afedare.odoo.api
 import com.afedare.odoo.ext.loadProperties
 import org.junit.Before
 import org.junit.BeforeClass
+import org.junit.Ignore
 import org.junit.Test
 import java.util.*
 
+@Ignore
 class CreatUpdateOdooApiTest {
     private lateinit var odooApiImpl: OdooApi
 
